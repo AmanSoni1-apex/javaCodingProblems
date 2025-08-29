@@ -1,5 +1,6 @@
+
 // public class Main{
-   
+
 //    static int addno(int no)
 //    {
 //       // pass by value 
@@ -15,7 +16,7 @@
 
 //       System.out.println(rn);
 //       System.out.println(no);
-   
+
 //    }
 // }
 
@@ -28,18 +29,17 @@
 //    public static void main(String[] args) {
 //       int[] arr={1,2,3,4,5,};
 //       System.out.println(arr[0]);
-      
+
 //       upelement(int[] arr);
 //       System.out.println(arr[0]);
 //    }
 // }
 
-
 // public class Main {
 
 //  static int show(int a , int b)
 //  {
-   
+
 //       System.out.println(a+b);
 //       return 0 ;
 //  }
@@ -51,7 +51,7 @@
 //  }
 //    public static void main(String[] args) {
 //       int result=show(10,20);
-      
+
 //       String re=show("aman");
 //       // System.out.println(re);
 //       String ff =show("john");
@@ -59,3 +59,12 @@
 //       System.out.println(ff);
 //    }
 // }
+
+// import java.util.*;
+
+class Main {
+    public static void main(String[] args) {        
+
+    }
+
+}
